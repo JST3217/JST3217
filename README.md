@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jia
 - 👀 I’m interested in aircraft, robots and no-code integrations
 - 🌱 I’m currently learning object oriented programming in Python
+- 🏆 Check out my past projects at https://jiasheng.me/digital-portfolio
 - 📫 You can reach me at projiasheng98@gmail.com
 
 <!---
