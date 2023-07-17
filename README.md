@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jia
-- 👀 I’m interested in aircraft, robots and no-code integrations
-- 🌱 I’m currently learning object oriented programming in Python
+- 👀 I’m interested in electric aircraft, renewable energy and the complete ecosystem to enable these applications at scale
+- 🌱 I’m currently learning about data and ML architecture for commercial aviation
 - 🏆 Check out my past projects at https://jiasheng.me/digital-portfolio
 - 📫 You can reach me at projiasheng98@gmail.com
 
